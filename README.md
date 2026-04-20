@@ -1,4 +1,4 @@
-# Labb 2: CIFAR-10 Klassificering
+# CIFAR-10 Klassificering
 
 ## Dataset
 CIFAR-10: 50,000 träningsbilder, 10,000 testbilder (flygplan, bilar, fåglar, etc.)
